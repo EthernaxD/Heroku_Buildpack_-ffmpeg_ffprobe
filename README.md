@@ -15,11 +15,11 @@ Thanks to [jonathanong](https://github.com/jonathanong) for static build of [ffm
 
     $ cat .buildpacks
     git://github.com/heroku/heroku-buildpack-ruby.git
-    git://github.com/hasibulkabir/heroku-buildpack-ffmpeg-ffprobe.git
+    git://github.com/EthernaxD/Heroku_Buildpack_-ffmpeg_ffprobe.git
 
     $ heroku buildpacks:add https://github.com/ddollar/heroku-buildpack-multi
 
 By this you can use ffmpeg and ffprobe command.
 
 ### Another method
-    heroku buildpacks:add https://github.com/HasibulKabir/heroku-buildpack-ffmpeg-ffprobe
+    heroku buildpacks:add https://github.com/EthernaxD/Heroku_Buildpack_-ffmpeg_ffprobe
