@@ -1,6 +1,5 @@
 # Heroku_Buildpack_-ffmpeg_ffprobe
 
-Heroku buildpack: heroku-buildpack-ffmpeg-ffprobe
 ======================
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks)
